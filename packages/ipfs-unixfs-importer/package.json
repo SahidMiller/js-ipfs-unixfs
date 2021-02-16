@@ -50,6 +50,7 @@
     "util": "^0.12.3"
   },
   "dependencies": {
+    "@ipld/dag-pb": "0.0.1",
     "bl": "^4.1.0",
     "cids": "^1.1.5",
     "err-code": "^3.0.1",
